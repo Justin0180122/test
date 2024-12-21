@@ -1,0 +1,133 @@
+yrn-fwxu-aod
+
+git command:
+
+git init
+
+git statu
+
+git add .
+
+git commit -m "v1"
+.
+.
+(右鍵複製)
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+git commit -m "v1"
+
+
+[master (root-commit) 059f4f8] v1
+ 2 files changed, 1 insertion(+)
+ create mode 100644 Git-2.47.1-64-bit.exe
+ create mode 100644 Test.py
+PS C:\Users\Student\Desktop\1221python>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
