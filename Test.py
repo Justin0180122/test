@@ -6,3 +6,7 @@ else:
     print("else")
 
     print("HI")
+
+    print("HI")
+
+    print("123")
